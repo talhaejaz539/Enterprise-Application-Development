@@ -1,0 +1,17 @@
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork02\Other\GPACalculator\PL\bin\Debug\netcoreapp3.1\PL.deps.json
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork02\Other\GPACalculator\PL\bin\Debug\netcoreapp3.1\PL.dll
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork02\Other\GPACalculator\PL\bin\Debug\netcoreapp3.1\PL.pdb
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork02\Other\GPACalculator\PL\bin\Debug\netcoreapp3.1\BLL.dll
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork02\Other\GPACalculator\PL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork02\Other\GPACalculator\PL\bin\Debug\netcoreapp3.1\DTO.dll
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork02\Other\GPACalculator\PL\bin\Debug\netcoreapp3.1\BLL.pdb
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork02\Other\GPACalculator\PL\bin\Debug\netcoreapp3.1\DTO.pdb
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork02\Other\GPACalculator\PL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork02\Other\GPACalculator\PL\obj\Debug\netcoreapp3.1\PL.csproj.AssemblyReference.cache
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork02\Other\GPACalculator\PL\obj\Debug\netcoreapp3.1\PL.GeneratedMSBuildEditorConfig.editorconfig
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork02\Other\GPACalculator\PL\obj\Debug\netcoreapp3.1\PL.AssemblyInfoInputs.cache
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork02\Other\GPACalculator\PL\obj\Debug\netcoreapp3.1\PL.AssemblyInfo.cs
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork02\Other\GPACalculator\PL\obj\Debug\netcoreapp3.1\PL.csproj.CoreCompileInputs.cache
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork02\Other\GPACalculator\PL\obj\Debug\netcoreapp3.1\PL.csproj.CopyComplete
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork02\Other\GPACalculator\PL\obj\Debug\netcoreapp3.1\PL.dll
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork02\Other\GPACalculator\PL\obj\Debug\netcoreapp3.1\PL.pdb

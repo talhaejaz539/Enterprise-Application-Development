@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\PL\\PL.csproj": {}
+  },
+  "projects": {
+    "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\TALHA EJAZ\\.nuget\\packages\\",
+        "outputPath": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TALHA EJAZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\DAL\\DAL.csproj": {
+                "projectPath": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\DAL\\DAL.csproj"
+              },
+              "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\DTO\\DTO.csproj": {
+                "projectPath": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\TALHA EJAZ\\.nuget\\packages\\",
+        "outputPath": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TALHA EJAZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\DTO\\DTO.csproj": {
+                "projectPath": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\DTO\\DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\DTO\\DTO.csproj",
+        "projectName": "DTO",
+        "projectPath": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\DTO\\DTO.csproj",
+        "packagesPath": "C:\\Users\\TALHA EJAZ\\.nuget\\packages\\",
+        "outputPath": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TALHA EJAZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\PL\\PL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\PL\\PL.csproj",
+        "projectName": "PL",
+        "projectPath": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\PL\\PL.csproj",
+        "packagesPath": "C:\\Users\\TALHA EJAZ\\.nuget\\packages\\",
+        "outputPath": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\PL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TALHA EJAZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\BLL\\BLL.csproj": {
+                "projectPath": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\BLL\\BLL.csproj"
+              },
+              "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\DTO\\DTO.csproj": {
+                "projectPath": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork02\\Other\\GPACalculator\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
