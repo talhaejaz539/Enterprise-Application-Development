@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HomeWork1/1.0.0": {
+        "dependencies": {
+          "PatientClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "HomeWork1.dll": {}
+        }
+      },
+      "PatientClassLibrary/1.0.0": {
+        "runtime": {
+          "PatientClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeWork1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PatientClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

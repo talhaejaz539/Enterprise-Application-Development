@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gMt7TOEbpIHFV/CxzKnsR1zCKXrFKb71J+XpuQP+ofmmEmYr3TEBFicfGjpWooBw6zFDIOzNlq2WQIRDd0oIBA==",
+  "success": true,
+  "projectFilePath": "E:\\PUCIT\\7th Semester\\EAD\\HomeWorks\\HomeWork01\\BCSF18A539\\Problem01\\HomeWork1\\PatientClassLibrary\\PatientClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TALHA EJAZ\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\TALHA EJAZ\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
