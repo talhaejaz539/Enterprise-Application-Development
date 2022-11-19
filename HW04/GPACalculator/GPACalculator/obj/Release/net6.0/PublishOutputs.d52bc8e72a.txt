@@ -1,0 +1,13 @@
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\GPACalculator\bin\Release\net6.0\GPACalculator.exe
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\GPACalculator\bin\Release\net6.0\GPACalculator.dll
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\GPACalculator\bin\Release\net6.0\GPACalculator.deps.json
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\GPACalculator\bin\Release\net6.0\GPACalculator.runtimeconfig.json
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\GPACalculator\bin\Release\net6.0\GPACalculator.pdb
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\GPACalculator\bin\Release\net6.0\BLL.dll
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\GPACalculator\bin\Release\net6.0\DAL.dll
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\GPACalculator\bin\Release\net6.0\DTO.dll
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\GPACalculator\bin\Release\net6.0\PL.dll
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\GPACalculator\bin\Release\net6.0\PL.pdb
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\GPACalculator\bin\Release\net6.0\BLL.pdb
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\GPACalculator\bin\Release\net6.0\DAL.pdb
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\GPACalculator\bin\Release\net6.0\DTO.pdb

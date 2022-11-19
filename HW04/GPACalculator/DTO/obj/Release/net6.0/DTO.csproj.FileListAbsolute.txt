@@ -1,0 +1,12 @@
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DTO\bin\Release\net6.0\DTO.deps.json
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DTO\bin\Release\net6.0\DTO.dll
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DTO\bin\Release\net6.0\DTO.pdb
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DTO\obj\Release\net6.0\DTO.csproj.AssemblyReference.cache
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DTO\obj\Release\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DTO\obj\Release\net6.0\DTO.AssemblyInfoInputs.cache
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DTO\obj\Release\net6.0\DTO.AssemblyInfo.cs
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DTO\obj\Release\net6.0\DTO.csproj.CoreCompileInputs.cache
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DTO\obj\Release\net6.0\DTO.dll
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DTO\obj\Release\net6.0\refint\DTO.dll
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DTO\obj\Release\net6.0\DTO.pdb
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DTO\obj\Release\net6.0\ref\DTO.dll

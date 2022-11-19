@@ -1,0 +1,15 @@
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DAL\bin\Debug\net6.0\DAL.dll
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DAL\bin\Debug\net6.0\DAL.pdb
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DAL\bin\Debug\net6.0\DTO.dll
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DAL\bin\Debug\net6.0\DTO.pdb
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DAL\obj\Debug\net6.0\DAL.dll
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DAL\obj\Debug\net6.0\DAL.pdb
+E:\PUCIT\7th Semester\EAD\HomeWorks\HomeWork04\GPACalculator\DAL\obj\Debug\net6.0\ref\DAL.dll
