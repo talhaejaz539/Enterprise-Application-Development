@@ -1,0 +1,17 @@
+E:\PUCIT\7th Semester\EAD\Assignments\Assignment01\POS_Terminal\BLL\bin\Debug\net6.0\BLL.deps.json
+E:\PUCIT\7th Semester\EAD\Assignments\Assignment01\POS_Terminal\BLL\bin\Debug\net6.0\BLL.dll
+E:\PUCIT\7th Semester\EAD\Assignments\Assignment01\POS_Terminal\BLL\bin\Debug\net6.0\BLL.pdb
+E:\PUCIT\7th Semester\EAD\Assignments\Assignment01\POS_Terminal\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+E:\PUCIT\7th Semester\EAD\Assignments\Assignment01\POS_Terminal\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\PUCIT\7th Semester\EAD\Assignments\Assignment01\POS_Terminal\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+E:\PUCIT\7th Semester\EAD\Assignments\Assignment01\POS_Terminal\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+E:\PUCIT\7th Semester\EAD\Assignments\Assignment01\POS_Terminal\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+E:\PUCIT\7th Semester\EAD\Assignments\Assignment01\POS_Terminal\BLL\obj\Debug\net6.0\BLL.dll
+E:\PUCIT\7th Semester\EAD\Assignments\Assignment01\POS_Terminal\BLL\obj\Debug\net6.0\refint\BLL.dll
+E:\PUCIT\7th Semester\EAD\Assignments\Assignment01\POS_Terminal\BLL\obj\Debug\net6.0\BLL.pdb
+E:\PUCIT\7th Semester\EAD\Assignments\Assignment01\POS_Terminal\BLL\obj\Debug\net6.0\ref\BLL.dll
+E:\PUCIT\7th Semester\EAD\Assignments\Assignment01\POS_Terminal\BLL\bin\Debug\net6.0\DAL.dll
+E:\PUCIT\7th Semester\EAD\Assignments\Assignment01\POS_Terminal\BLL\bin\Debug\net6.0\DTO.dll
+E:\PUCIT\7th Semester\EAD\Assignments\Assignment01\POS_Terminal\BLL\bin\Debug\net6.0\DAL.pdb
+E:\PUCIT\7th Semester\EAD\Assignments\Assignment01\POS_Terminal\BLL\bin\Debug\net6.0\DTO.pdb
+E:\PUCIT\7th Semester\EAD\Assignments\Assignment01\POS_Terminal\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
