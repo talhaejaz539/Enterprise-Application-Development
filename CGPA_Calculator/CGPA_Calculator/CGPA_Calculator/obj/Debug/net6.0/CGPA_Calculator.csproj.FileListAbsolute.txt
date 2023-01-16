@@ -1,0 +1,15 @@
+E:\Courses\EAD\Enterprise-Application-Development\CGPA_Calculator\CGPA_Calculator\CGPA_Calculator\obj\Debug\net6.0\CGPA_Calculator.csproj.AssemblyReference.cache
+E:\Courses\EAD\Enterprise-Application-Development\CGPA_Calculator\CGPA_Calculator\CGPA_Calculator\obj\Debug\net6.0\CGPA_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\EAD\Enterprise-Application-Development\CGPA_Calculator\CGPA_Calculator\CGPA_Calculator\obj\Debug\net6.0\CGPA_Calculator.AssemblyInfoInputs.cache
+E:\Courses\EAD\Enterprise-Application-Development\CGPA_Calculator\CGPA_Calculator\CGPA_Calculator\obj\Debug\net6.0\CGPA_Calculator.AssemblyInfo.cs
+E:\Courses\EAD\Enterprise-Application-Development\CGPA_Calculator\CGPA_Calculator\CGPA_Calculator\obj\Debug\net6.0\CGPA_Calculator.csproj.CoreCompileInputs.cache
+E:\Courses\EAD\Enterprise-Application-Development\CGPA_Calculator\CGPA_Calculator\CGPA_Calculator\bin\Debug\net6.0\CGPA_Calculator.exe
+E:\Courses\EAD\Enterprise-Application-Development\CGPA_Calculator\CGPA_Calculator\CGPA_Calculator\bin\Debug\net6.0\CGPA_Calculator.deps.json
+E:\Courses\EAD\Enterprise-Application-Development\CGPA_Calculator\CGPA_Calculator\CGPA_Calculator\bin\Debug\net6.0\CGPA_Calculator.runtimeconfig.json
+E:\Courses\EAD\Enterprise-Application-Development\CGPA_Calculator\CGPA_Calculator\CGPA_Calculator\bin\Debug\net6.0\CGPA_Calculator.dll
+E:\Courses\EAD\Enterprise-Application-Development\CGPA_Calculator\CGPA_Calculator\CGPA_Calculator\bin\Debug\net6.0\CGPA_Calculator.pdb
+E:\Courses\EAD\Enterprise-Application-Development\CGPA_Calculator\CGPA_Calculator\CGPA_Calculator\obj\Debug\net6.0\CGPA_Calculator.dll
+E:\Courses\EAD\Enterprise-Application-Development\CGPA_Calculator\CGPA_Calculator\CGPA_Calculator\obj\Debug\net6.0\refint\CGPA_Calculator.dll
+E:\Courses\EAD\Enterprise-Application-Development\CGPA_Calculator\CGPA_Calculator\CGPA_Calculator\obj\Debug\net6.0\CGPA_Calculator.pdb
+E:\Courses\EAD\Enterprise-Application-Development\CGPA_Calculator\CGPA_Calculator\CGPA_Calculator\obj\Debug\net6.0\CGPA_Calculator.genruntimeconfig.cache
+E:\Courses\EAD\Enterprise-Application-Development\CGPA_Calculator\CGPA_Calculator\CGPA_Calculator\obj\Debug\net6.0\ref\CGPA_Calculator.dll
